@@ -1,0 +1,4 @@
+{"level":30,"time":1701817107851,"pid":10047,"hostname":"c7a8d6ff65c4","msg":"Initializing SQLite database at /home/runner/GALBOT/sqlite/credits.db"}
+{"level":30,"time":1701817107855,"pid":10047,"hostname":"c7a8d6ff65c4","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1701817107855,"pid":10047,"hostname":"c7a8d6ff65c4","msg":"CreditManager instance created."}
+{"level":30,"time":1701817107859,"pid":10047,"hostname":"c7a8d6ff65c4","msg":"CreditHandler initialized"}
